@@ -1,8 +1,7 @@
-- Bonjour, I’m Abdelmounaim.
+- Bonjour, I’m Abdelmounaim, student in my first year.
 - I’m interested in Data science.
-- I’m currently learning python.
+- I’m currently learning python and its main libraries used in data science and AI.
 - I’m looking to collaborate on Data science projects.
-- How to reach me ...
 
 <!---
 Abdelmounaim-SOU/Abdelmounaim-SOU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
